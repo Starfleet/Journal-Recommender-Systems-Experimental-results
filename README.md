@@ -2,8 +2,8 @@
 
 This repo contains all the experimental data for the article:
 
-Assessing recommender systems' recommendations on the best journals for
-submitting research paper
+Do Journal Recommender Systems really support the process of 
+selecting the best journal for submitting a research article?
 
 by Blanca Miranda-Valencia and Salvador Godoy-Calderon
 

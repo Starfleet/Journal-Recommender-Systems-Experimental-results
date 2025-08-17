@@ -1,11 +1,11 @@
 **Contents**
 
-##This repo contains all the experimental data for the article:
+## This repo contains all the experimental data for the article:
 
-#Do Journal Recommender Systems really support the process of 
+# Do Journal Recommender Systems really support the process of 
 selecting the best journal for submitting a research article?
 
-#by Blanca Miranda-Valencia and Salvador Godoy-Calderon
+# by Blanca Miranda-Valencia and Salvador Godoy-Calderon
 
 Which has the following abstract:
 
